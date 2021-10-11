@@ -1,2 +1,4 @@
-for i in range(20):
-    print(i)
+son=int(input("son kiriting="))
+for son  in range(1,son):
+    print(son*"*")
+
